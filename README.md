@@ -30,7 +30,7 @@ Query Craft is an AI-powered tool that simplifies database querying by translati
 ## Usage
 1. Run the Streamlit app:
    ```
-   streamlit run app.py
+   streamlit run querycraft.py
    ```
 2. Enter the database URL in the sidebar.
 3. Select the database type (SQL or MongoDB).
