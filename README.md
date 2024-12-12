@@ -45,15 +45,15 @@ Query Craft is an AI-powered tool that simplifies database querying by translati
 
 ## UI 
 ### Query Craft UI
-(![image](https://github.com/user-attachments/assets/f5048e7a-b044-4556-8bbd-01121799609d))
+![image](https://github.com/user-attachments/assets/f5048e7a-b044-4556-8bbd-01121799609d)
 
 ### SQL Query Example
-(![image](https://github.com/user-attachments/assets/5f603b93-3940-42f3-a1ec-da877bdc3779))
+![image](https://github.com/user-attachments/assets/5f603b93-3940-42f3-a1ec-da877bdc3779)
 
 ### MongoDB Query Example
-(![image](https://github.com/user-attachments/assets/1a9bc39b-6be6-48f4-9e87-0f86a068fa2e)
- ![image](https://github.com/user-attachments/assets/da08d6b6-aa90-4921-9f8e-9fb0c14dac31)
-)
+![image](https://github.com/user-attachments/assets/1a9bc39b-6be6-48f4-9e87-0f86a068fa2e)
+![image](https://github.com/user-attachments/assets/da08d6b6-aa90-4921-9f8e-9fb0c14dac31)
+
 ## Dependencies
 - Streamlit: For the interactive UI.
 - Python-dotenv: To manage environment variables.
