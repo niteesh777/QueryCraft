@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+pymongo
+sqlalchemy
+langchain-community
+langchain
+openai
